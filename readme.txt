@@ -4,3 +4,4 @@ Prodi: Informatika
 Alamat: Klitren Lor
 Hobi: Basket
 baris baru
+saya mengedit ini dari visual studio code
