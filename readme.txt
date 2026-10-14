@@ -1,1 +1,5 @@
-Nama: Joshuel Louis Kakisina nNIM: 71261282 nProdi: Informatika
+Nama: Joshuel Louis Kakisina 
+NIM: 71261282 
+Prodi: Informatika
+Alamat: Klitren Lor
+Hobi: Basket
